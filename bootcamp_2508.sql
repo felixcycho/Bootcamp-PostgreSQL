@@ -1,4 +1,4 @@
-create database bootcamp_2508;
+
 
 select * from mtr_lines;
 select * from mtr_stations;
